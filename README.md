@@ -27,7 +27,7 @@ $ npm i
 #### Setup Strike:
 1. Register on the DEVELOPMENT strike platform https://dev.strike.acinq.co
 2. Go to settings -> webhooks -> change hook url and set to
-3. http://<your-instance>.ngrok.io/strike/payment/received
+3. http://`<your-instance>`.ngrok.io/strike/payment/received
 4. Go to API Keys and copy your API key
 
 
