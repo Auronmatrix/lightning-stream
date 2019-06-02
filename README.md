@@ -2,6 +2,10 @@
 
 Simple POC app that streams random lorem ipsum text when paid via lightning
 
+![](output.gif)
+
+<sup>Don't worry, the gif's API key has been replaced. </sup>
+
 - Backend uses ACINQ [Strike](https://dev.strike.acinq.co)
 - Testnet Wallet [HTLC.me](https://htlc.me/)
 
